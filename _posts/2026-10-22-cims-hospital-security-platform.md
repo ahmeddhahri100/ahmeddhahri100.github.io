@@ -4,6 +4,7 @@ date: 2026-10-22 12:00:00 +0100
 categories: [Projects, Security]
 tags: [kubernetes, security, ai, ollama, elasticsearch, filebeat, n8n, react, argocd, devsecops]
 mermaid: true
+image: /assets/images/covers/cims.svg
 ---
 
 ## A clinic on paper, and no one watching the system

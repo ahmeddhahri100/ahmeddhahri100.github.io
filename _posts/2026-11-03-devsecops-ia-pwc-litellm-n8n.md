@@ -4,6 +4,7 @@ date: 2026-11-03 09:00:00 +0100
 categories: [Projects, Security, DevSecOps]
 tags: [litellm, n8n, ollama, ai, devsecops, security, prompt-engineering, docker]
 mermaid: true
+image: /assets/images/covers/devsecops-ia.svg
 ---
 
 ## Quand le flux IA devient lui-même une surface d'attaque
