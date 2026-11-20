@@ -1,5 +1,5 @@
 ---
-title: "🤖 DevSecOps & IA – PwC : Quand l'IA Sécurité Devient un Workflow Complet"
+title: "DevSecOps & IA – PwC : Quand l'IA Sécurité Devient un Workflow Complet"
 date: 2026-11-03 09:00:00 +0100
 categories: [Projects, Security, DevSecOps]
 tags: [litellm, n8n, ollama, ai, devsecops, security, prompt-engineering, docker]
