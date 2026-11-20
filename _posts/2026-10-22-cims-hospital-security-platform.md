@@ -1,5 +1,5 @@
 ---
-title: "🏥 CIMS — A Hospital System That Watches Its Own Back"
+title: "CIMS — A Hospital System That Watches Its Own Back"
 date: 2026-10-22 12:00:00 +0100
 categories: [Projects, Security]
 tags: [kubernetes, security, ai, ollama, elasticsearch, filebeat, n8n, react, argocd, devsecops]
